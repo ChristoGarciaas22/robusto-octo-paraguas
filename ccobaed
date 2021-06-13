@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Tablas</title>
+<body bgcolor=#d6d7c6" text="#000000">
+<img src="C:\Users\Ing Luis Enrique\Desktop\Nueva carpeta (2)\cobaed\eleccc.jpg">
+<p> Que Tal!!!</p>
+<br>
+<center><h1>Ejemplos de tablas en html</h1></center>
+<table border="5" width="90%" align="center" height="50" >
+<tr>      
+<td>Tabla 1 </td>
+<td>Tabla 2 </td>
+<td>tabla 3 </td>
+<td>tabla 4 </td>
+</tr>
+<center><img src="C:\Users\Ing Luis Enrique\Desktop\Nueva carpeta (2)\cobaed\perrufas.jpg" width="500" height="500" ></img> </center></td>
+<p> COBAED</p>
+<td>columna1 </td>
+<td><img src="C:\Users\Ing Luis Enrique\Desktop\Nueva carpeta (2)\cobaed\tsuru tuneado.jpg" width="100" height="100"> </td>
+<td> columna3</td>
+<td>columna4 </td> 
+<tr>     
+<td>columna1 </td>
+<td>columna2 </td>
+<td>columna3 </td>
+<td><img src="C:\Users\Ing Luis Enrique\Desktop\Nueva carpeta (2)\cobaed\imaggn.jpg"width="100"heigth="100" > </td>
+</tr>
+</table>
+</body>
+</html>
